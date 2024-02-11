@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongik's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoulLife&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoulLife&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoulLife&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoulLife)](https://github.com/anuraghazra/github-readme-stats)
