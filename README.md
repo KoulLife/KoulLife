@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=KoulLife&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoulLife&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
