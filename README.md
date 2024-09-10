@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongik's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+<summary>About Me</summary>
 <span>
   <a href="https://www.instagram.com/6unoyunr/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongik's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoulLife&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
