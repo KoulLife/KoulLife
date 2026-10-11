@@ -33,4 +33,5 @@ Most of my current work lives in private repositories, so the projects below are
 
 | Project | Contribution | PR |
 |---|---|---|
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Corrected the Korean (ko-KR) username validation message, which said Hangul was allowed while the actual pattern only accepts Hanja. | [#4025](https://github.com/Tencent/WeKnora/pull/4025) |
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Fixed a regression in the chat model connection test that marked healthy models as failed, with regression tests. | [#3929](https://github.com/Tencent/WeKnora/pull/3929) |
