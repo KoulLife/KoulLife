@@ -53,3 +53,4 @@ Four core principles guiding both my engineering and personal outlook:
 |---|---|---|
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Corrected the Korean (ko-KR) username validation message, which said Hangul was allowed while the actual pattern only accepts Hanja. | [#4025](https://github.com/Tencent/WeKnora/pull/4025) |
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Fixed a regression in the chat model connection test that marked healthy models as failed, with regression tests. | [#3929](https://github.com/Tencent/WeKnora/pull/3929) |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | Fixed the Block Diff Playground modal being drawn under the editor's isolated stacking context by portaling it to the document body instead of the editor host. | [#15890](https://github.com/toeverything/AFFiNE/pull/15890) |
