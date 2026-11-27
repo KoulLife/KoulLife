@@ -1,4 +1,4 @@
-<img width="823" height="427" alt="image" src="https://github.com/user-attachments/assets/0bbe37db-7e47-45c5-b707-0e33fa8dd922" /># 👋 Hi, I'm Dongik
+# 👋 Hi, I'm Dongik
 
 **Backend & AI Developer** at a software company in Seoul.
 
