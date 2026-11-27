@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dongik
+<img width="823" height="427" alt="image" src="https://github.com/user-attachments/assets/0bbe37db-7e47-45c5-b707-0e33fa8dd922" /># 👋 Hi, I'm Dongik
 
 **Backend & AI Developer** at a software company in Seoul.
 
@@ -51,6 +51,7 @@ Four core principles guiding both my engineering and personal outlook:
 
 | Project | Contribution | PR |
 |---|---|---|
+| [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) | Fixed ClickHouse panel queries failing with multi-value variables: `StatusCode IN ($status)` was sent as `IN (Error)` instead of the plugin's `IN ('Error')`. Multi-value selections are now quoted like the ClickHouse plugin does, with unit tests. | [#1720](https://github.com/grafana/mcp-grafana/pull/1720) |
 | [we-promise/sure](https://github.com/we-promise/sure) | Fixed the trade form saving a price in the wrong currency: the fee's currency picker overrode the one picked for the price, so `$305.6` was saved as `₩306`. The fee now follows the price's currency, with regression tests. | [#5842](https://github.com/we-promise/sure/pull/5842) |
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Corrected the Korean (ko-KR) username validation message, which said Hangul was allowed while the actual pattern only accepts Hanja. | [#4025](https://github.com/Tencent/WeKnora/pull/4025) |
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Fixed a regression in the chat model connection test that marked healthy models as failed, with regression tests. | [#3929](https://github.com/Tencent/WeKnora/pull/3929) |
